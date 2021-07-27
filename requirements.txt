@@ -42,7 +42,7 @@ awscli>=1.11.91
 
 # REST interface for models
 flask==0.12.1
-flask-cors==3.0.3
+flask-cors==3.0.9
 gevent==1.2.2
 
 # Talk to postgres demo database
